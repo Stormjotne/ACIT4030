@@ -37,7 +37,7 @@ try:
 		for index, line in enumerate(detection_file):
 			#  Use regular expression to extract filename
 			current_file_name = r_x.search(line.strip()).group(1)
-			print(current_file_name)
+			#  print(current_file_name)
 			if current_file_name in training_file_names:
 				# write to training split file
 				with train_split.open('a') as train_file:
