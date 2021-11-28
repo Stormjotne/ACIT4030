@@ -1,10 +1,10 @@
-#ACIT4030
+# ACIT4030
 Machine Learning for Images and 3D Data
 
-##Research project on the use of ML/DL on 3D data and RGB images in Autonomous Driving
+##  Research project on the use of ML/DL on 3D data and RGB images in Autonomous Driving
 Authors: Rashmi Naik and Ruben Jahren
 
-##Content
+##  Content
 This repository includes two submodules that are forked from Matterports implementation of Mask RCNN and Charles Qi's implementation of Frustum PointNets.
 Some of the code has been changed and adapted for our project.
 We've added new 2D bounding box outputs from Mask RCNN to the Frustum PointNets submodule.
