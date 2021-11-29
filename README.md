@@ -14,9 +14,14 @@ Due to time-constraints, we got stuck on the last part right before submission.
 ##  Files that are strictly our contribution and/or continuation
 ### Our code
 inference_2dbb.py
+
 split_rgb_detection.py
+
 Mask_RCNN/samples/infer_KITTI.ipynb
+
 ### Our outputs
 rgb_detections/rgb_detection_train.txt
+
 ACIT4030/output/rgb_detections/rgb_detection_train.txt
+
 ACIT4030/output/rgb_detections/rgb_detection_val.txt
